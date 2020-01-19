@@ -3,6 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:medimate/pages/home.dart';
 import 'package:medimate/pages/loading.dart';
+import 'package:camera/camera.dart';
 
 
 void main() => runApp(MaterialApp(
